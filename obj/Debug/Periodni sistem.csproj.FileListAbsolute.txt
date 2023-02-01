@@ -1,0 +1,33 @@
+C:\1 Programming\Periodni sistem\bin\Debug\Periodni sistem.exe.config
+C:\1 Programming\Periodni sistem\bin\Debug\Periodni sistem.exe
+C:\1 Programming\Periodni sistem\bin\Debug\Periodni sistem.pdb
+C:\1 Programming\Periodni sistem\obj\Debug\Periodni sistem.csproj.AssemblyReference.cache
+C:\1 Programming\Periodni sistem\obj\Debug\Periodni_sistem.Form1.resources
+C:\1 Programming\Periodni sistem\obj\Debug\Periodni_sistem.Properties.Resources.resources
+C:\1 Programming\Periodni sistem\obj\Debug\Periodni sistem.csproj.GenerateResource.cache
+C:\1 Programming\Periodni sistem\obj\Debug\Periodni sistem.csproj.CoreCompileInputs.cache
+C:\1 Programming\Periodni sistem\obj\Debug\Periodni sistem.exe
+C:\1 Programming\Periodni sistem\obj\Debug\Periodni sistem.pdb
+C:\1 Programming\Periodni sistem\obj\Debug\Periodni_sistem.Form2.resources
+C:\1 Programming\Periodni sistem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\1 Programming\Periodni sistem\bin\Debug\System.Buffers.dll
+C:\1 Programming\Periodni sistem\bin\Debug\System.Memory.dll
+C:\1 Programming\Periodni sistem\bin\Debug\System.Numerics.Vectors.dll
+C:\1 Programming\Periodni sistem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\1 Programming\Periodni sistem\bin\Debug\System.Text.Encodings.Web.dll
+C:\1 Programming\Periodni sistem\bin\Debug\System.Text.Json.dll
+C:\1 Programming\Periodni sistem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\1 Programming\Periodni sistem\bin\Debug\System.ValueTuple.dll
+C:\1 Programming\Periodni sistem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\1 Programming\Periodni sistem\bin\Debug\System.Buffers.xml
+C:\1 Programming\Periodni sistem\bin\Debug\System.Memory.xml
+C:\1 Programming\Periodni sistem\bin\Debug\System.Numerics.Vectors.xml
+C:\1 Programming\Periodni sistem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\1 Programming\Periodni sistem\bin\Debug\System.Text.Encodings.Web.xml
+C:\1 Programming\Periodni sistem\bin\Debug\System.Text.Json.xml
+C:\1 Programming\Periodni sistem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\1 Programming\Periodni sistem\bin\Debug\System.ValueTuple.xml
+C:\1 Programming\Periodni sistem\obj\Debug\Periodni sistem.csproj.CopyComplete
+C:\1 Programming\Periodni sistem\bin\Debug\Newtonsoft.Json.dll
+C:\1 Programming\Periodni sistem\bin\Debug\Newtonsoft.Json.xml
+C:\1 Programming\Periodni sistem\obj\Debug\Periodni_sistem.Form3.resources

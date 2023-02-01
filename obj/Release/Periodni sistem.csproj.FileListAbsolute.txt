@@ -1,0 +1,33 @@
+C:\1 Programming\Periodni sistem\bin\Release\Periodni sistem.exe.config
+C:\1 Programming\Periodni sistem\bin\Release\Periodni sistem.exe
+C:\1 Programming\Periodni sistem\bin\Release\Periodni sistem.pdb
+C:\1 Programming\Periodni sistem\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\1 Programming\Periodni sistem\bin\Release\Newtonsoft.Json.dll
+C:\1 Programming\Periodni sistem\bin\Release\System.Buffers.dll
+C:\1 Programming\Periodni sistem\bin\Release\System.Memory.dll
+C:\1 Programming\Periodni sistem\bin\Release\System.Numerics.Vectors.dll
+C:\1 Programming\Periodni sistem\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\1 Programming\Periodni sistem\bin\Release\System.Text.Encodings.Web.dll
+C:\1 Programming\Periodni sistem\bin\Release\System.Text.Json.dll
+C:\1 Programming\Periodni sistem\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\1 Programming\Periodni sistem\bin\Release\System.ValueTuple.dll
+C:\1 Programming\Periodni sistem\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\1 Programming\Periodni sistem\bin\Release\Newtonsoft.Json.xml
+C:\1 Programming\Periodni sistem\bin\Release\System.Buffers.xml
+C:\1 Programming\Periodni sistem\bin\Release\System.Memory.xml
+C:\1 Programming\Periodni sistem\bin\Release\System.Numerics.Vectors.xml
+C:\1 Programming\Periodni sistem\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\1 Programming\Periodni sistem\bin\Release\System.Text.Encodings.Web.xml
+C:\1 Programming\Periodni sistem\bin\Release\System.Text.Json.xml
+C:\1 Programming\Periodni sistem\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\1 Programming\Periodni sistem\bin\Release\System.ValueTuple.xml
+C:\1 Programming\Periodni sistem\obj\Release\Periodni sistem.csproj.AssemblyReference.cache
+C:\1 Programming\Periodni sistem\obj\Release\Periodni_sistem.Form1.resources
+C:\1 Programming\Periodni sistem\obj\Release\Periodni_sistem.Form2.resources
+C:\1 Programming\Periodni sistem\obj\Release\Periodni_sistem.Form3.resources
+C:\1 Programming\Periodni sistem\obj\Release\Periodni_sistem.Properties.Resources.resources
+C:\1 Programming\Periodni sistem\obj\Release\Periodni sistem.csproj.GenerateResource.cache
+C:\1 Programming\Periodni sistem\obj\Release\Periodni sistem.csproj.CoreCompileInputs.cache
+C:\1 Programming\Periodni sistem\obj\Release\Periodni sistem.csproj.CopyComplete
+C:\1 Programming\Periodni sistem\obj\Release\Periodni sistem.exe
+C:\1 Programming\Periodni sistem\obj\Release\Periodni sistem.pdb
